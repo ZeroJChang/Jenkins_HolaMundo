@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsmojY5upidvxQCnozH1nXQ2PjrKEjQsUlSZLPp8X+t3aYvSey7ZoD5jjQzX3KSbvdxnWkf/I9XO2ZE4afB5vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BDGSA\\Desktop\\U\\2024\\IS 2\\Lab_Jenkins\\JenkinsHolaMundo\\JenkinsHolaMundo\\JenkinsHolaMundo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BDGSA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\BDGSA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\BDGSA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\BDGSA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
